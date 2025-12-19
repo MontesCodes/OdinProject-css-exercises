@@ -13,3 +13,9 @@ p {
   color: white;
   font-size: 18px;
 }
+
+/* button styles */
+button {
+  background-color: orange;
+  font-size: 18px;
+}
