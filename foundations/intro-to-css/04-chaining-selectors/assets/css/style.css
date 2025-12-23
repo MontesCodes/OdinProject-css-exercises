@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+/* Target images with both the "avatar" and "proportioned" classes */
+.avatar.proportioned {
+  width: 18.75rem; /* 300px */
+  height: auto;
+}
+/* Target images with both the "avatar" and "distorted" classes */
+.avatar.distorted {
+  width: 12.5rem; /* 200px */
+  height: 25rem; /* 400px */
+}
