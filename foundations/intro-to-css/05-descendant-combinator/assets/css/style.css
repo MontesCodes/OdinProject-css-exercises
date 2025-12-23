@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+div p {
+  background-color: #ff0; /* Yellow background for paragraphs inside divs */
+  color: #f00; /* Red text color for paragraphs inside divs */
+  font-size: 1.25rem; /* 20px font size for paragraphs inside divs */
+  text-align: center; /* Centered text for paragraphs inside divs */
+}
+/* Additional styles for paragraphs with class text2 inside container2 */
+.container2 .text2 {
+  background-color: #ff0; /* Yellow background for paragraphs with class text2 inside container2 */
+  color: #f00; /* Red text color for paragraphs with class text2 inside container2 */
+  font-size: 1.25rem; /* 20px font size for paragraphs with class text2 inside container2 */
+  text-align: center; /* Centered text for paragraphs with class text2 inside container2 */
+}
