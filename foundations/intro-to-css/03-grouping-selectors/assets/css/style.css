@@ -1,5 +1,17 @@
 /* Add CSS Styling */
-
-.fontSize {
+/*font size for both button elements*/
+.fontSize-Family {
   font-size: 1.75rem; /* 28px */
+  font-family: helvetica, times new roman, sans-serif;
+}
+
+/*background color for both button elements*/
+.backgroundColor1 {
+  background-color: #000; /* black */
+  color: #fff; /* white text for contrast */
+}
+
+.backgroundColor2 {
+  background-color: #ff0; /* yellow */
+  color: #000; /* black text for contrast */
 }
