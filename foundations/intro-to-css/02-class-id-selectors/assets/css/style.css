@@ -1,5 +1,12 @@
 /* Add CSS Styling */
+/* Styled class1 elements with a light pink background and verdana font */
 .class1 {
-  background-color: #ffb6c1;
+  background-color: #ffb6c1; /* light pink */
   font-family: verdana, dejavu sans, sans-serif;
+}
+
+/* Styled id1 elements with a blue color and 36px font size */
+#id1 {
+  color: #00ff; /* blue */
+  font-size: 2.25rem; /* 36px */
 }
