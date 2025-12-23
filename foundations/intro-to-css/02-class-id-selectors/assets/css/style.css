@@ -18,4 +18,5 @@
 #id2 {
   background-color: #90ee90; /* light green */
   font-size: 1.5rem; /* 24px */
+  font: 700; /* bold font weight */
 }
